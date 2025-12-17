@@ -1,7 +1,7 @@
-Ferramentas
-KaliLinux
-kit de ferramentas
-Configurando o Phishing no Kali Linux
+Ferramenta do Kali-Linux
+
+Configurando o Phishing no Kali Linux:
+
 Acesso raiz:sudo su
 Iniciando o setoolkit:setoolkit
 Tipo de ataque:Social-Engineering Attacks
